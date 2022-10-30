@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="EurekaClient/src/main/java"/>
+	<classpathentry kind="src" path="EurekaClient/src/test/java"/>
+	<classpathentry kind="src" path="EurekaClient2/src/main/java"/>
+	<classpathentry kind="src" path="EurekaClient2/src/test/java"/>
+	<classpathentry kind="src" path="EurekaServer/src/main/java"/>
+	<classpathentry kind="src" path="EurekaServer/src/test/java"/>
+	<classpathentry kind="lib" path="EurekaClient/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="EurekaClient2/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="EurekaServer/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="EurekaServer/bin/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="EurekaClient/target/classes"/>
+</classpath>
